@@ -1,7 +1,14 @@
-# Online-Voting-System-by-using-Cryptography
-A secure and user-friendly online voting platform that enables citizens to cast votes digitally.   The system uses cryptographic techniques such as password hashing to protect user credentials, prevent vote tampering, and ensure election integrity.
+<div align="right">
+  
+[1]: https://github.com/praveengouda25
+[2]: https://www.linkedin.com/in/praveen-kumar-bcc2525/
 
-# ONLINE VOTING SYSTEM USING CRYPTOGRAPHY
+[![github](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/4f3921b8f8104e2a1fd9ff8dbf2191765a89e228/icons/git.svg)][1]
+[![linkedin](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/7cdd63bd3820d6a3cc1d61d0a78f976d942c9ea6/icons/linkedin.svg)][2]
+
+</div>
+# <div align="center">Online Voting System by using Cryptography</div>
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
 
 A secure and user-friendly online voting platform that enables citizens to cast votes digitally.  
 The system uses cryptographic techniques such as password hashing to protect user credentials, prevent vote tampering, and ensure election integrity.
@@ -46,32 +53,6 @@ It reduces manual workload, ensures faster result generation, and enables voting
 
 ---
 
-## 🔄 System Workflow
-
-1. **Admin Logs In**
-   - Starts the election server  
-   - Registers voters  
-   - Monitors vote count  
-
-2. **Voter Registration**
-   - Admin registers voters with details such as name, zone, city, and password  
-   - System generates a unique voter ID  
-
-3. **Voter Login**
-   - Voter enters ID and password  
-   - System verifies hashed credentials  
-   - System checks if the voter has already cast a vote  
-
-4. **Casting the Vote**
-   - Voter selects a candidate from the list  
-   - System encrypts and stores the vote  
-   - Vote status updates to “cast”  
-
-5. **Counting & Results**
-   - Admin views total votes for each candidate  
-   - Results are displayed instantly  
-
----
 
 ## 🖥 Pages & Screens
 
@@ -82,10 +63,17 @@ It reduces manual workload, ensures faster result generation, and enables voting
   - **Voter Login**  
   - **New Window**
 
+  ![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+
+  
+
 ### **Admin Login Page**
 Fields:
 - Admin ID  
 - Password  
+
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+
 
 Admin can:
 - Start the server  
@@ -100,6 +88,9 @@ Fields:
 - City  
 - Password  
 
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+
+
 The system:
 - Generates voter ID  
 - Stores data securely  
@@ -110,6 +101,9 @@ Voter enters:
 - Voter ID  
 - Password  
 
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+
+
 System validation ensures:
 - Correct credentials  
 - Voter has not voted already  
@@ -119,6 +113,9 @@ Contains:
 - Candidate list (e.g., BJP, Congress, others)  
 - Submit button  
 
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+
+
 System ensures:
 - One vote per user  
 - Secure vote storage  
@@ -127,6 +124,36 @@ System ensures:
 Admin can:
 - View total votes for each party  
 - Monitor election progress  
+
+![Customer Churn](https://github.com/praveengouda25/Telecom_Customer_Churn_Prediction/blob/d8e3eaadad0de3ce621e19518cf340705c1667ff/outputs/1_nyYWLxe8m8FOvvKw76__9w.jpg)  
+
+---
+
+## 🔄 System Workflow
+
+1. **Admin Logs In**
+   - Starts the election server  
+   - Registers voters  
+   - Monitors vote count  
+  
+2. **Voter Registration**
+   - Admin registers voters with details such as name, zone, city, and password  
+   - System generates a unique voter ID  
+  
+
+3. **Voter Login**
+   - Voter enters ID and password  
+   - System verifies hashed credentials  
+   - System checks if the voter has already cast a vote  
+
+4. **Casting the Vote**
+   - Voter selects a candidate from the list  
+   - System encrypts and stores the vote  
+   - Vote status updates to “cast”  
+
+5. **Counting & Results**
+   - Admin views total votes for each candidate  
+   - Results are displayed instantly  
 
 ---
 
