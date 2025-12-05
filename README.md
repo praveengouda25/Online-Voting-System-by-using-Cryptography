@@ -163,3 +163,28 @@ Admin can:
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/online-voting-system.git
+
+2. Install Python 3.x
+
+3. Install required libraries:
+   pip install pandas
+
+4.No database setup needed — system uses CSV auto-generation
+
+5. Ensure Python is added to PATH
+
+**##🚀 Future Enhancements
+**
+Blockchain-based vote validation
+
+Two-factor authentication (OTP, biometrics)
+
+Mobile application support
+
+Stronger encryption for vote data
+
+Multilingual interface
+
+Cloud-based scalable server
+
+Accessibility-enhanced UI
