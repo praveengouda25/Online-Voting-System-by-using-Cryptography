@@ -173,8 +173,9 @@ Admin can:
 
 5. Ensure Python is added to PATH
 
-**##🚀 Future Enhancements
-**
+
+##  Future Enhancements
+
 Blockchain-based vote validation
 
 Two-factor authentication (OTP, biometrics)
